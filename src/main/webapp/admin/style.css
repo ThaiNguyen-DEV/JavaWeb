@@ -1,0 +1,11 @@
+.navbar .nav-item:hover{
+    background-color: white;
+    border-radius: 5px;
+}
+
+.container .row .col-md-3 .card .card-body i{
+    font-size: 40px;
+}
+
+
+
